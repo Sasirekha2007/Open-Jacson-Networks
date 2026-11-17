@@ -21,7 +21,6 @@ Visual components and Python
 
 ## Program
 ```
-Exp 6:
 
 
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
